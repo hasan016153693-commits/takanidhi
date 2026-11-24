@@ -1,8 +1,1 @@
-{
-  "name": "bd-microjob",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  }
-}
+{"name":"takanidhi","version":"1.0.0","main":"app.js","scripts":{"start":"node app.js"},"dependencies":{"mongodb":"^6.10.0"}}
